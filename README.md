@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BurakCanberkT
-- 👀 I’m interested in many areas related to data, programming, machine learning.
-- 🌱 I’m currently learning SQL, Python, Machine Learning.
-- 💞️ I’m looking to collaborate on basically any areas that will help me grow.
+- 👀 I’m interested in many areas related to data, ML, LLM.
+- 🌱 I’m currently learning SQL, Python and leaning upon personal ML/DL Projects.
+- 💞️ I’m looking forward to collaborate in almost any areas that will help me grow.
 - 📫 How to reach me just search my name on linkedIn. There aren't many BurakCanberks.
 - 😄 Pronouns: :)
 - ⚡ Fun fact: 
